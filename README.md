@@ -1,12 +1,24 @@
-# React + Vite
+# Stock Price Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive React application displaying real-time stock data.  
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Real-time stock data via Finnhub API  
+- Interactive stock table with search functionality  
+- Visual price charts with multiple timeframes  
+- Responsive design with dark mode support  
+- Loading states and error handling  
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React 19** – Component-based UI  
+- **Vite 6** – Lightning-fast build tool  
+- **Tailwind CSS 4** – Utility-first styling  
+- **Chart.js** – Visualizations and line charts  
+- **Axios** – API data fetching  
+
+## Deployment
+
+This project is deployed on **Vercel**:  
+🔗 [https://stock-dashboard-venetialiu.vercel.app](https://stock-dashboard-venetialiu.vercel.app](https://stock-dashboard-ko4jlw9ka-venetialius-projects.vercel.app/)
