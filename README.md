@@ -21,4 +21,4 @@ A responsive React application displaying real-time stock data.
 ## Deployment
 
 This project is deployed on **Vercel**:  
-🔗 [https://stock-dashboard-venetialiu.vercel.app](https://stock-dashboard-venetialiu.vercel.app](https://stock-dashboard-ko4jlw9ka-venetialius-projects.vercel.app/)
+🔗 [https://stock-dashboard-venetialiu.vercel.app]
