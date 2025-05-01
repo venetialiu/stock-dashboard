@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <rect fill="#0EA5E9" x="0" y="0" width="24" height="24" rx="12"></rect>
+    <g transform="translate(4, 4)" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="0 12 4 8 8 12 16 4"></polyline>
+      <polyline points="12 4 16 4 16 8"></polyline>
+    </g>
+  </g>
+</svg>
