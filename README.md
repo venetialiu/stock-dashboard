@@ -1,6 +1,6 @@
-# Stock Price Dashboard
+# Real-Time Stock Price Dashboard
 
-A responsive React application displaying real-time stock data.  
+A responsive web application displaying real-time stock data.
 
 ## Features
 
